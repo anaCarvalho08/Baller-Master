@@ -1,2 +1,2 @@
 # Baller-Master
-Avaliação individual do Senac DF. Em andamento.
+Avaliação individual em C# do Senac DF. Em andamento.
